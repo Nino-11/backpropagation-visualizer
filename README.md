@@ -8,7 +8,7 @@ An interactive visualization that demonstrates how neural networks learn through
 
 ##  Overview
 
-Backpropagation is one of the most fundamental algorithms in machine learning — yet it’s often difficult to truly *see* how it works.
+Backpropagation is one of the most fundamental algorithms in machine learning, yet it’s often difficult to truly *see* how it works.
 
 This interactive tool provides a step-by-step visual breakdown of:
 
