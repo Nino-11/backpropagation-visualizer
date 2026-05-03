@@ -1,8 +1,10 @@
 #  Backpropagation Visualizer
 
-An interactive visualization that demonstrates how neural networks learn through forward and backward passes.
+
 ![Backpropagation Preview](preview.png)
 
+
+An interactive visualization that demonstrates how neural networks learn through forward and backward passes.
 🔗 **Interactive Demo:** https://nino-11.github.io/backpropagation-visualizer/
 
 ---
